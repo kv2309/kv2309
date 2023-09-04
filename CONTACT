@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-image: url(OIP.jpeg);
+            background-size: cover;
+        }
+        img{
+            float:right;
+        }
+        p{
+            background-color: white;
+            color: red;
+            
+        }
+        p.center{
+            overflow: scroll;
+            width: 150px;
+            height: 150px;
+            padding: 100px;
+        }
+    </style>
+</head>
+<body>
+    <h1>CONTACTS AND ACHIEVEMENTS OF COLLEGE </h1>
+    <p><img src="https://education.sakshi.com/sites/default/files/images/2023/02/28/vitap-1677569604.jpg" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 650px; height: 250px; margin: 0px; width: 464px; text-align: right; " alt="VIT-AP VITopia Sports Events Winners 27/2/2023 | Sakshi Education" jsname="kn3ccd" aria-hidden="false">VIT-AP provides avenues to all faculty members for publication of research papers, promotion of collaborative research activities with industries. The institute provides seed grants to faculty and encourages them to work in relevant areas of research. Apart from faculty and Ph.D. scholars, the curricula of all the programmes are designed to provide fundamentals of engineering, science, and humanities along with a strong emphasis on multi-disciplinary research.
+
+Engineering clinics, an important component of all degree programmes of VIT-AP, provides an opportunity to identify research problems relevant to academic and industrial needs. The participation of students and faculty members in research ensures a team effort towards problem-solving activities. The faculty, students, and scholars are provided free internet, free wi-fi, and access to several popular scientific journals. All the Ph.D. scholars are offered a monthly stipend and financial support for consumables, tools, travel, and other related expenditure..</p>  
+    
+    
+
+    
+</body>
+</html>
