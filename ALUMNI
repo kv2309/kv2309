@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alumni</title>
+    <style>
+        .newspaper {
+            column-count: 4;
+            flex-wrap: wrap;
+            background-color: beige;
+
+
+        }
+
+        .newspaper h2 {
+            column-span: all;
+
+        }
+
+        .newspaper img {
+            width: 85%;
+            height: auto;
+        }
+
+        .newspaper p:first-of-type:first-letter {
+            font-size: 5em;
+            margin: 0.1em 0.1em 0.1em -0.05em;
+        }
+
+        .ftr {
+            padding-top: 10px;
+            padding-left: 500px;
+            padding-right: 0px;
+            padding-bottom: 10px;
+            margin-left: 0px;
+            background-color: antiquewhite;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="FOLDER">
+        <h2>ALUMNI</h2>
+        <img src="https://s3.studytonight.com/tutorials/uploads/pictures/1654869255-106730.jpg">Richard Bertrand Spencer (born May 1978)[1] is an American neo-Nazi, antisemitic conspiracy theorist, and white supremacist.[2][3] A former magazine editor, he is a public speaker and activist on behalf of the alt-right movement.[2][4] He advocates for the reconstitution of the European Union into a white racial empire, which he believes will replace the diverse European ethnic identities with one homogeneous "White identity".[5][6][7]
+
+        Spencer has advocated for the enslavement of Haitians by whites and for the ethnic cleansing of the racial minorities of the United States,[8] additionally expressing admiration for the political tactics of American Nazi Party founder George Lincoln Rockwell.[9][10] He was a featured speaker at the August 2017 Unite the Right rally in Charlottesville, Virginia, among other neo-Nazi rallies that he has headlined.[11]
+
+        Spencer has repeatedly used Nazi gestures and rhetoric in public. In early 2016, Spencer was filmed giving the Nazi salute in a karaoke bar, and leaked footage also depicts Spencer giving the Sieg Heil salute to his supporters during the August 2017 Charlottesville rally.[12] After Donald Trump was elected president in 2016, Spencer urged his supporters to "party like it's 1933," the year Hitler came to power in Germany.[13] In the weeks following, Spencer quoted Nazi propaganda and denounced Jews.[14] At a conference Spencer held celebrating the election, Spencer cried: "Hail Trump, hail our people, hail victory!"; subsequently Mike Enoch led a number of Spencer's supporters in performing a Nazi salute and a chant similar to the Sieg Heil chant.[15][16] In early-to-mid-2017, when Spencer's following was at its height, his supporters would give him the Sieg Heil salute when he entered a room.[17] By the early 2020s, Spencer distanced himself from the alt-right and his past support for Trump, and rebranded himself as a supporter of Joe Biden.[18]
+
+        Following the Unite the Right rally, Spencer has been involved in several legal issues. After the Unite the Right rally in Charlottesville, during which an alt-right supporter drove his car into a group of counter-protesters, killing one and injuring at least 19 others,[19][20][21] Spencer was sued as part of Sines v. Kessler for allegedly acting as a "gang boss" and inciting the killing.[22][23] On November 23, 2021, the jury found Spencer liable on two counts and were unable to reach verdicts for another two, awarding $25 million in total damages.[24][25] Three supporters of Spencer were charged with attempted homicide following his October 2017 speech at the University of Florida.[26] Following an appeal by the Polish government, he was banned from the Schengen Area in 2018,[27][28] having been banned previously in 2014 after being deported from Hungary.[29][30][31]
+    </div>
+    <footer class="ftr">
+        <b>
+            <p>visit my linked in profile to view more projects, the link is below</p>
+        </b>
+        <a href="https://www.linkedin.com/">MY PROFILE</a>
+    </footer>
+
+</body>
+
+</html>
