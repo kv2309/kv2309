@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+    <style>
+
+        marquee{
+            color:chartreuse;
+        }
+        .markup:hover{
+            color: cornflowerblue;
+
+        }
+        .spec:hover{
+            color: cadetblue;
+        }
+        .original{
+           
+        
+            background-image: url("https://images.pexels.com/photos/235986/pexels-photo-235986.jpeg?cs=srgb&amp;dl=pexels-pixabay-235986.jpg&amp;fm=jpg");
+            opacity: 100%;
+            /* filter: blur(); */
+            
+            
+        }
+        .center{
+            border-radius: 50px;
+            height: 300px;
+            width: 500px;
+            padding-top: 100px;
+            background-color:black;
+            border:10px solid blue;
+            border-left: 10px solid yellow;
+            border-right: 10px solid yellow;
+            margin-right: 0px;
+            /* border-style:groove; */
+       }
+       .rango{
+        border-radius: 20px;
+        
+       }
+       .buck:hover{
+        color: chartreuse;
+       }
+        </style>
+</head>
+
+<body class="original">
+    <b><marquee class="good" ; behavior="scrollamount" direction="left" scrollamount="12">KEEP VISITING MY LOGIN PAGES</marquee><b>
+        <marquee direction ="up" scrollamount:15>1<br>0
+            <br>1 <br>0</marquee>
+    
+    
+            <center>   
+        
+        <form>
+            <div class="doom">
+
+            <div class="center">
+                
+            
+            <label for="unique" style="color:white;">USERNAME</label>
+            
+                <input class="rango" type ="text" id="unique">
+              <br>
+              <br>
+            <label for="Different" style="color: white;">PASSWORD</label>
+            <input class="rango" type="password" id="Different">
+            
+            <br>
+            <br>
+          
+            <input type ="submit" onclick ="detailes()" style="background-color: blueviolet;">
+            
+            <br>
+            
+               
+                <br>
+                <br>
+               <span class="buck" style="color: white;">Don't have an account ? <button><a href ="registrationform.html">REGISTER HERE </a></button>  </span>
+                <br>
+                <br>
+                <div class="buck">
+        <strong><a class="buck" href="https://vitap.ac.in/" target="_blank" style="color: white;"> VISIT UNIVERSITY WEBSITE</a></strong>
+    </div> 
+
+            </div>
+        </div>  
+
+       
+        </form>
+        <br>
+
+        <script>
+             USERNAME = document.getElementById("unique").value;
+             PASSWORD = document.getElementById("Different").value;
+            function detailes() {
+                if (USERNAME === "PVSCH" && PASSWORD === 2004)
+                    alert("Login successfull")
+
+                else(
+                    alert("Invalid password or username")
+                )
+
+                
+            }
+
+            
+        </script>
+
+
+        
+        
+    </body>
+</center>
+    </html>
