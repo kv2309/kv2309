@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Student Profile</title>
+</head>
+<body>
+  <div class="container">
+    <h2>Student Profile</h2>
+    <form id="studentForm" onsubmit="return getStudentDetails()">
+      <label for="regNumber">Registration Number:</label>
+      <input type="text" id="regNumber" name="regNumber" placeholder="Enter registration number" required>
+      <button type="submit">Get Student Details</button>
+    </form>
+    <div id="studentDetails"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
